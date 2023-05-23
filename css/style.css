@@ -384,9 +384,9 @@ margin-right: 8px;
         .but{display: flex;
 
            z-index: 1;
-            position: absolute;
+            position: fixed;
             
-            bottom:74px;
+            bottom:24px;
             left: 24px;
             
             /* margin-top: 50px; */
